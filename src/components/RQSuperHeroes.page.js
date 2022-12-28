@@ -1,9 +1,7 @@
 import useHeroes from "../query hooks/useHeroes"
 
 export const RQSuperHeroesPage = () => {
-
   const heroes = useHeroes()
-
   return (
     <>
       <h2>React Query Super Heroes Page</h2>
