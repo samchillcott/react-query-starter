@@ -1,4 +1,4 @@
-import useHeroes from "../query hooks/useFetchHeroes"
+import useHeroes from "../query hooks/useHeroes"
 
 export const RQSuperHeroesPage = () => {
 
